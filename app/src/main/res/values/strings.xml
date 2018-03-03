@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Card</string>
+    <string name="business_name">Yacht for a raft</string>
+    <string name="phone_number">0892212352</string>
+    <string name="email">yachtforaraft@gmail.com</string>
+    <string name="address">Sarafovo, 8017 Burgas</string>
+    <string name="description">A yacht trip to your chosen location at the Black Sea!</string>
+    <string name="hours">08:00 - 21:00</string>
+
+</resources>
